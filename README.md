@@ -1,12 +1,12 @@
 # InsFollow
-<p align="center">
-  <img src="" width="470" height="250">
+<p align="left">
+  <img src="https://github.com/Shadow-Captain/InsFollow/blob/main/IMG_20220523_180628.png" width="470" height="250">
 </p>
 Best Tool For Increase Instagram Follower.
 
 ## Requisitos
-1. openssl
-2. curl
+1. `openssl`
+2. `curl`
 
 ## Instalacion en Termux
 
@@ -22,8 +22,8 @@ Best Tool For Increase Instagram Follower.
 
 `$ cd InsFollow`
 
-`$ chmod +x InsFollow.sh`
+`$ chmod +x insfollow.sh`
 
 `$ termux-wake-lock`
 
-`$ bash InsFollow.sh`
+`$ bash insfollow.sh`
