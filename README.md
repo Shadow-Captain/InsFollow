@@ -2,7 +2,7 @@
 <p align="left">
   <img src="https://github.com/Shadow-Captain/InsFollow/blob/main/IMG_20220523_180628.png" width="470" height="250">
 </p>
-Best Tool For Increase Instagram Follower.
+La mejor herramienta para aumentar los seguidores de Instagram.
 
 ## Requisitos
 1. `openssl`
