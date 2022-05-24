@@ -27,3 +27,6 @@ La mejor herramienta para aumentar los seguidores de Instagram.
 `$ termux-wake-lock`
 
 `$ bash insfollow.sh`
+
+Por último agrega tu nombre de usuario después coloca tu 
+Contraseña y listo.
